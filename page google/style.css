@@ -1,0 +1,30 @@
+.conteneur
+{display: flex;
+justify-content: flex-end;
+}
+.boutons
+{display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;flex-shrink: initial
+}
+#nation{width: 100%;align-items: flex-end;flex-direction: row; color: #5f6368; background-color: #F2F2F2}
+.adds
+{display:flex;
+flex-direction: row;
+align-items: flex-start;color: #5f6368; background-color: #F2F2F2; font-family: Arial, Helvetica, sans-serif; font-size: 13px}
+
+.logo
+{display: flex;justify-content: center;}
+
+.barrederecherche
+{display: flex;flex-direction: row;justify-content: center}
+
+.confidentialité
+{display:flex;flex-direction:row-reverse ;align-self: flex-start;color: #5f6368; background-color: #F2F2F2; font-family: Arial, Helvetica, sans-serif; font-size: 13px}
+a
+{text-decoration: none;
+color: #2d2c2c
+
+
+
+
